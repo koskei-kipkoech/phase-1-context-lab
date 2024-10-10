@@ -80,3 +80,5 @@ function calculatePayroll(employeeRecords){
         return total + allWagesFor.call(employee)
     },0)
 }
+
+
